@@ -1,6 +1,36 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "space: what is out there?"
 
 theme = "ananke"
 themesDir = "themes"
+
+MetaDataFormat = "yaml"
+DefaultContentLanuage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number 
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+ changefreq = "monthly"
+ priority = 0.5
+ filename = "sitemap.xml"
+
+[params]
+ favicon = ""
+ site_logo = ""
+ description = "The last theme you'll ever need. Maybe"
+ facebook = ""
+ twitter = ""
+ instagram = ""
+ youtube = ""
+ github = ""
+ gitlab = ""
+ linkedin = ""
+ slack = ""
+ stackoverflow = ""
+ rss = ""
+ background_colour_class = "bg-black"
+ featured_image = ""
+ recent_posts_number = 2
