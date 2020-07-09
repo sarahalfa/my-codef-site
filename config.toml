@@ -34,4 +34,5 @@ enableRobotsTXT = true
  rss = ""
  background_colour_class = "bg-black"
  featured_image = "/galaxy2.jpg"
+ 
  recent_posts_number = 2
