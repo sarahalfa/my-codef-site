@@ -33,6 +33,6 @@ enableRobotsTXT = true
  stackoverflow = ""
  rss = ""
  background_colour_class = "bg-black"
- featured_image = "/galaxy2.jpg"
+ featured_image = "/astronaut.jpg"
 
  recent_posts_number = 2
