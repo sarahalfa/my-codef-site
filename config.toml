@@ -1,39 +1,37 @@
-baseURL = "http://example.org/"
+ title = "space; it's out there"
+baseURL = "https://example.com"
 languageCode = "en-us"
-title = "space: what is out there?"
-
 theme = "ananke"
 themesDir = "themes"
 
 MetaDataFormat = "yaml"
-DefaultContentLanuage = "en"
+DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number 
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [sitemap]
- changefreq = "monthly"
- priority = 0.5
- filename = "sitemap.xml"
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
- favicon = ""
- site_logo = ""
- description = "The last theme you'll ever need. Maybe"
- facebook = ""
- twitter = ""
- instagram = ""
- youtube = ""
- github = ""
- gitlab = ""
-
- linkedin = ""
- slack = ""
- stackoverflow = ""
- rss = ""
- background_colour_class = "bg-black"
- 
- featured_image = "/astronaut.jpg"
-
- recent_posts_number = 2
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/astronaut.jpg"
+  recent_posts_number = 2
