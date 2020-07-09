@@ -26,7 +26,8 @@ enableRobotsTXT = true
  instagram = ""
  youtube = ""
  github = ""
- gitlab = ""
+  gitlab = ""
+
  linkedin = ""
  slack = ""
  stackoverflow = ""
