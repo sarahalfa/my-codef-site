@@ -4,3 +4,4 @@ date: {{ .Date }}
 draft: false
 ---
 
+featured_image = 

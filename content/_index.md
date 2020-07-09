@@ -8,4 +8,4 @@ Space remains a mystery. We know that the Milky Way itself is between *100,000 a
 
 You can insert links [to places](https://github.com/).
 
-featured_image = "/galaxy2.jpg"
+featured_image = "/astronaut.jpg"
