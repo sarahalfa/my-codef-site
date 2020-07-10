@@ -8,5 +8,6 @@ Hawking's book is a popular read on cosmology, the study of the origin and evolu
 
 > We must accept that time is not completely seperate from and independent of space, but is combined with it to form an object called space-time.
 
+featured_image = "/book.jpg"
 ![book](book.jpg)
 ![book2](book2.jpg)
