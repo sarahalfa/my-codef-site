@@ -6,8 +6,9 @@ draft: false
 
 Space remains a mystery. We know that the Milky Way itself is between *100,000 and 150,000* light years across. The universe itself is another matter.
 
-You can check out the latest news and discoveries by heading [to places](https://science.nasa.gov/).
+This site has been designed to provide a quick read to the latest scientific discoveries on our universe.
 
-Alternatively, you can fill out the contact form in the *contact* section to subscribe to weekly emails. 
+You can also read more about new discoveries in science by heading [to places](https://science.nasa.gov/).
+
 
 ![galaxy2](galaxy2.jpg)
